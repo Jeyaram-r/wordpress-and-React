@@ -1,0 +1,7 @@
+{
+  "apiVersion": 2,
+  "name": "project/project-details",
+  "title": "Project Details",
+  "category": "widgets",
+  "editorScript": "file:./build/index.js"
+}

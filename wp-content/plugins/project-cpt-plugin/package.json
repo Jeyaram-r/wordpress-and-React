@@ -1,0 +1,12 @@
+{
+  "name": "project-cpt-plugin",
+  "version": "1.0.0",
+  "description": "Custom Gutenberg Project Plugin",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.27.0"
+  }
+}
